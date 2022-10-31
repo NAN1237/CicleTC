@@ -16,7 +16,7 @@
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'androidapp/APIDemos.apk'</initValue>
+      <initValue>'androidapp/staging-cicle-nskndksds-app-release.apk'</initValue>
       <name>G_AndroidApp</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
